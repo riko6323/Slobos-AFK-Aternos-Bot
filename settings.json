@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aloolelo.aternos.me:31341",
+    "ip": "aloolelo.aternos.me",
     "port": 31341,
     "version": "",
     "try-creative": false
