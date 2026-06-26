@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rikokaserver-IHSW.aternos.me",
+    "ip": "aloolelo.aternos.me:31341",
     "port": 31341,
     "version": "",
     "try-creative": false
