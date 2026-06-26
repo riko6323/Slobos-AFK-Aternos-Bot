@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "rikokaserver-IHSW.aternos.me",
+    "port": 31341,
     "version": "",
     "try-creative": false
   },
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 10,
       "speed": 3000
     },
     "look-around": {
